@@ -12,5 +12,9 @@
     "tslint": "^5.14.0",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.3.3333"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.8",
+    "react": "^16.8.4"
   }
 }
